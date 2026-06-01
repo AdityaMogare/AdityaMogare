@@ -29,7 +29,6 @@
 | **Lucerna** | Enterprise Data Intelligence & Visualization Platform deployed for the U.S. Air Force procurement branch. | `React` `Django` `PostgreSQL` `Redis` `Docker` |
 | **GlobalNode Ledger** | High-resilience, production-grade distributed ledger with guaranteed processing idempotency. | `Go` `Java` `Distributed Systems` |
 | **Retinal AI Diagnostics** | Deep learning models utilizing retinal imaging to classify and detect early-stage diabetes. | `Python` `PyTorch` `TensorFlow` `Computer Vision` |
-| **ThePurryLife** | Production web platform connecting pet owners with walkers, sitters, and adoption services. | `React` `Node.js` `Express` |
 
 ---
 
@@ -45,26 +44,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaMogare&show_icons=true&theme=visual_studio_dark&count_private=true" alt="Aditya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMogare&layout=compact&theme=visual_studio_dark" alt="Top Languages" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaMogare&theme=dark&hide_border=true" alt="GitHub Streak" width="90%" />
-</p>
-
----
-
-## 🏆 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcode-stats-rocket.vercel.app/api?username=adityapmogare&theme=dark" alt="Aditya's LeetCode Stats" width="60%" />
-</p>
-
----
 
 <p align="center">
   Connect with me:&nbsp;
