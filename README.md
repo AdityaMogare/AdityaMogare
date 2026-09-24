@@ -14,7 +14,6 @@
 
 ---
 
-- 🔭 **Currently building:** **AgentGuard** — a multi-agent AI observability framework that instruments AI systems via a Python SDK and streams live telemetry into Splunk.
 - 🏆 **Recently shipped:** **Lucerna** — an enterprise-grade Data Intelligence and Visualization Platform built for the U.S. Air Force via Hacking for Defense (H4D) to bridge procurement visibility gaps.
 - 💼 **Open to:** Full-time SWE, AI Engineer, and Distributed Systems roles — available immediately.
 - 📫 **Reach me at:** mogare@usc.edu &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/aditya-prasanna-mogare-47382a1b5/)
